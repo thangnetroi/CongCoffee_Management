@@ -1,0 +1,7 @@
+D:\Movie_Management-master\Movie_Management-master\Movie_Management\bin\Debug\Movie_Management.exe
+D:\Movie_Management-master\Movie_Management-master\Movie_Management\bin\Debug\Movie_Management.pdb
+D:\Movie_Management-master\Movie_Management-master\Movie_Management\obj\Debug\Coffee_Management.csproj.AssemblyReference.cache
+D:\Movie_Management-master\Movie_Management-master\Movie_Management\obj\Debug\Coffee_Management.csproj.SuggestedBindingRedirects.cache
+D:\Movie_Management-master\Movie_Management-master\Movie_Management\obj\Debug\Coffee_Management.csproj.CoreCompileInputs.cache
+D:\Movie_Management-master\Movie_Management-master\Movie_Management\obj\Debug\Movie_Management.exe
+D:\Movie_Management-master\Movie_Management-master\Movie_Management\obj\Debug\Movie_Management.pdb
